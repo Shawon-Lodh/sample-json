@@ -1,0 +1,22 @@
+{
+  "code":200,
+  "message":"Defined Extension Center list",
+  "data":[
+    {
+      "id":1,
+      "name":"Aditmari"
+    },
+    {
+      "id":2,
+      "name":"Bahalbaria"
+    },
+    {
+      "id":3,
+      "name":"Tilli"
+    },
+    {
+      "id":4,
+      "name":"Lama"
+    }
+  ]
+}
