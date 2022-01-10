@@ -1,0 +1,22 @@
+{
+  "code":200,
+  "message":"Defined Area list",
+  "data":[
+    {
+      "id":1,
+      "name":"Rangpur"
+    },
+    {
+      "id":2,
+      "name":"Baluhahat"
+    },
+    {
+      "id":3,
+      "name":"Bagerhat"
+    },
+    {
+      "id":4,
+      "name":"Slyhet"
+    }
+  ]
+}
