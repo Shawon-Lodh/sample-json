@@ -1,0 +1,34 @@
+{
+  "code":200,
+  "message":"Defined Village name list",
+  "data":[
+    {
+      "id":1,
+      "name":"Kalmati",
+      "union":"Khuniagach",
+      "police_station":"Lalmonithut Sadar",
+      "district":"Lalmonirhat"
+    },
+    {
+      "id":2,
+      "name":"Vadai",
+      "union":"Vadai",
+      "police_station":"Aditmari",
+      "district":"Lalmonirhat"
+    },
+    {
+      "id":3,
+      "name":"Saral Kha",
+      "union":"Sarpukur",
+      "police_station":"Aditmari",
+      "district":"Lalmonirhat"
+    },
+    {
+      "id":4,
+      "name":"Tepatari",
+      "union":"Saptibari",
+      "police_station":"Aditmari",
+      "district":"Lalmonirhat"
+    }
+  ]
+}
