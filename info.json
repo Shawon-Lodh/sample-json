@@ -1,66 +1,66 @@
 {
-    "success": true,
-    "data": {
-        "id": 11639,
-        "farmer_info_id": 1500,
-        "surce_type": 1,
-        "bell_id": "KUS-22000280",
-        "bell_status": 1,
-        "bell_weight": 68,
-        "tare": 0,
-        "tobacco_type": "FCV",
-        "bell_int_grade": "KPOA",
-        "bell_ext_grade": "4K",
-        "bell_price": 117,
-        "purchase_from": "Kushtia",
-        "tp_no": "1744",
-        "has_paid": 0,
-        "user_id": 54,
-        "created_at": "2022-03-09T08:20:01.000000Z",
-        "updated_at": "2022-03-09T08:21:22.000000Z",
-        "transport_permit_id": 1744,
-        "history": [
-            {
-                "action": "Register",
-                "by": "Shawon Lodh",
-                "at": "2022-03-09T08:20:01.000000Z"
-            },
-            {
-                "action": "Rejected",
-                "by": "Shawon Lodh",
-                "at": "2022-03-09T08:20:35.000000Z"
-            },
-            {
-                "action": "Purchase",
-                "by": "Shawon Lodh",
-                "at": "2022-03-09T08:20:35.000000Z"
-            },
-            {
-                "action": "Purchase",
-                "by": "Shawon Lodh",
-                "at": "2022-03-09T08:20:35.000000Z"
-            },
-            {
-                "action": "Purchase",
-                "by": "Shawon Lodh",
-                "at": "2022-03-09T08:20:35.000000Z"
-            },
-            {
-                "action": "Set Weight",
-                "by": "Shawon Lodh",
-                "at": "2022-03-09T08:21:22.000000Z"
-            },
-            {
-                "action": "Set Weight",
-                "by": "Shawon Lodh",
-                "at": "2022-03-09T08:21:22.000000Z"
-            }
-        ],
-        "bell_qr_code": "KUS-22000280",
-        "bell_current_status": "Purchased",
-        "tobacco_name": "K-326",
-        "tobacco_name_id": 4,
-        "farmer_name": "Md. Rubel Ali",
-        "extension_center": "Paharpur"
-    }
+  "success":true,
+  "data":{
+    "id":11639,
+    "farmer_info_id":1500,
+    "surce_type":1,
+    "bell_id":"KUS-22000280",
+    "bell_status":1,
+    "bell_weight":68,
+    "tare":0,
+    "tobacco_type":"FCV",
+    "bell_int_grade":"KPOA",
+    "bell_ext_grade":"4K",
+    "bell_price":117,
+    "purchase_from":"Kushtia",
+    "tp_no":"1744",
+    "has_paid":0,
+    "user_id":54,
+    "created_at":"2022-03-09T08:20:01.000000Z",
+    "updated_at":"2022-03-09T08:21:22.000000Z",
+    "transport_permit_id":1744,
+    "history":[
+      {
+        "action":"Register",
+        "by":"Shawon Lodh",
+        "at":"2022-03-09T08:20:01.000000Z"
+      },
+      {
+        "action":"Rejected",
+        "by":"Shawon Lodh",
+        "at":"2022-03-09T08:20:35.000000Z"
+      },
+      {
+        "action":"Purchase",
+        "by":"Shawon Lodh",
+        "at":"2022-03-09T08:20:35.000000Z"
+      },
+      {
+        "action":"Purchase",
+        "by":"Shawon Lodh",
+        "at":"2022-03-09T08:20:35.000000Z"
+      },
+      {
+        "action":"Rejected",
+        "by":"Shawon Lodh",
+        "at":"2022-03-09T08:20:35.000000Z"
+      },
+      {
+        "action":"Set Weight",
+        "by":"Shawon Lodh",
+        "at":"2022-03-09T08:21:22.000000Z"
+      },
+      {
+        "action":"Set Weight",
+        "by":"Shawon Lodh",
+        "at":"2022-03-09T08:21:22.000000Z"
+      }
+    ],
+    "bell_qr_code":"KUS-22000280",
+    "bell_current_status":"Purchased",
+    "tobacco_name":"K-326",
+    "tobacco_name_id":4,
+    "farmer_name":"Md. Rubel Ali",
+    "extension_center":"Paharpur"
+  }
 }
