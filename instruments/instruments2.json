@@ -1,0 +1,52 @@
+[
+  {
+    "item_name": "dumble",
+    "image_url": "https://5.imimg.com/data5/ANDROID/Default/2020/11/HB/HX/RQ/97806274/product-jpeg-500x500.jpg",
+    "quantity": 4
+  },
+  {
+    "item_name": "Ab Coaster",
+    "image_url": "https://www.rookieroad.com/img/workout/ab-coaster.png",
+    "quantity": 3
+  },
+  {
+    "item_name": "Ab Crunch Machine",
+    "image_url": "https://www.rookieroad.com/img/workout/ab-crunch-machine.png",
+    "quantity": 4
+  },
+  {
+    "item_name": "Ab Roller Wheel",
+    "image_url": "https://www.rookieroad.com/img/workout/ab-roller-wheel.png",
+    "quantity": 4
+  },
+  {
+    "item_name": "Abdominal Bench",
+    "image_url": "https://www.rookieroad.com/img/workout/abdominal-bench.png",
+    "quantity": 3
+  },
+  {
+    "item_name": "Stability Ball",
+    "image_url": "https://www.rookieroad.com/img/workout/stability-ball.png",
+    "quantity": 4
+  },
+  {
+    "item_name": "workout accessories",
+    "image_url": "https://www.rookieroad.com/img/workout/workout-accessories.png",
+    "quantity": 4
+  },
+  {
+    "item_name": "battle-ropes",
+    "image_url": "https://www.rookieroad.com/img/workout/battle-ropes.png",
+    "quantity": 3
+  },
+  {
+    "item_name": "Blocks",
+    "image_url": "https://www.rookieroad.com/img/workout/blocks.png",
+    "quantity": 4
+  },
+  {
+    "item_name": "Hand Grip Exerciser",
+    "image_url": "https://www.rookieroad.com/img/workout/hand-grip-exerciser.png",
+    "quantity": 4
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "package_type": "CrossFit",
+    "items": [
+      {
+        "id": 1,
+        "description": "Lorem Ipsum is simply dummied text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "duration_months": 12,
+        "original_price": 300,
+        "Discounted_price": 260
+      },
+      {
+        "id": 2,
+        "description": "Lorem Ipsum is simply dummied text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "duration_months": 12,
+        "original_price": 300,
+        "Discounted_price": 260
+      },
+      {
+        "id": 3,
+        "description": "Lorem Ipsum is simply dummied text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "duration_months": 12,
+        "original_price": 300,
+        "Discounted_price": 260
+      }
+    ]
+  },
+  {
+    "package_type": "Kickboxing",
+    "items": [
+      {
+        "id": 1,
+        "description": "Lorem Ipsum is simply dummied text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "duration_months": 12,
+        "original_price": 300,
+        "Discounted_price": 260
+      },
+      {
+        "id": 2,
+        "description": "Lorem Ipsum is simply dummied text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "duration_months": 12,
+        "original_price": 300,
+        "Discounted_price": 260
+      },
+      {
+        "id": 3,
+        "description": "Lorem Ipsum is simply dummied text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "duration_months": 12,
+        "original_price": 300,
+        "Discounted_price": 260
+      }
+    ]
+  },
+  {
+    "package_type": "Nutrition",
+    "items": [
+      {
+        "id": 1,
+        "description": "Lorem Ipsum is simply dummied text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "duration_months": 12,
+        "original_price": 300,
+        "Discounted_price": 260
+      },
+      {
+        "id": 2,
+        "description": "Lorem Ipsum is simply dummied text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "duration_months": 12,
+        "original_price": 300,
+        "Discounted_price": 260
+      },
+      {
+        "id": 3,
+        "description": "Lorem Ipsum is simply dummied text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "duration_months": 12,
+        "original_price": 300,
+        "Discounted_price": 260
+      }
+    ]
+  }
+]

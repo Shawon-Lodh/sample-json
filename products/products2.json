@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "dumble",
+    "description": "This fixed dumbbell offering from Rogue Fitness may be suitable for those wanting certain weights or a smaller selection of dumbbells.People can choose and purchase individual dumbbells or pairs of dumbbells in weights ranging from 2.5–125 lb. Product dimensions vary depending on the weight.The manufacturers suggest their dumbbells deliver on quality, performance, and longevity. They also point out that the design of their dumbbells minimizes noise, limits wear and tear, and features a firm and comfortable grip.At the time of publication, Rogue Dumbbells have an MSRP of $20 for a pair of 2.5-lb weights through to $455 for a pair of weights weighing 125 lb.",
+    "image_url": "https://5.imimg.com/data5/ANDROID/Default/2020/11/HB/HX/RQ/97806274/product-jpeg-500x500.jpg",
+    "original_price": 300,
+    "Discounted_price": 260,
+    "quantity": 4,
+    "added_to_withlist": 0
+  },
+  {
+    "id": 2,
+    "name": "Ab Coaster",
+    "description": "An ab coaster is a machine designed to work your abs in very specific ways. As opposed to other ab machines, the ab coaster works your abs from bottom to top with the help of a pendulum-like swing. To use this machine, a lifter will put their knees on a seat that is attached to the pendulum, while simultaneously holding on to bars at the top. From there, the lifter will move their knees up and down along the pendulum until they have finished their sets. This piece of equipment cost about $100 to $200.",
+    "image_url": "https://www.rookieroad.com/img/workout/ab-coaster.png",
+    "original_price": 300,
+    "Discounted_price": 260,
+    "quantity": 3,
+    "added_to_withlist": 0
+  },
+  {
+    "id": 3,
+    "name": "Ab Crunch Machine",
+    "description": "An ab crunch machine is used to work out one's upper abdominal muscles by providing an easy way for a lifter to expand and contract his core. Performing this ab crunch movement has two steps. First, the lifter must sit in the machine and slide their feet/ankles underneath the padded steps found below the machine while holding onto the bars on the top half of the machine. From there, all the lifter must do is bring their knees to their chest in an upright crunch motion. This machine costs about $500 to $1,000.",
+    "image_url": "https://www.rookieroad.com/img/workout/ab-crunch-machine.png",
+    "original_price": 300,
+    "Discounted_price": 260,
+    "quantity": 5,
+    "added_to_withlist": 0
+  },
+  {
+    "id": 4,
+    "name": "Ab Roller Wheel",
+    "description": "An ab roller wheel is a small piece of gym equipment that is used to workout one's lower back and abdominal muscles. The design of an ab roller is fairly simple. There is a small central wheel with small handles on each side. To properly use the ab roller, a lifter will start by sitting on their knees in an upright position with the roller on the ground. From there, they will roll forward and backward as much as they deem appropriate. This piece of equipment costs about $10 to $20.",
+    "image_url": "https://www.rookieroad.com/img/workout/ab-roller-wheel.png",
+    "original_price": 300,
+    "Discounted_price": 260,
+    "quantity": 2,
+    "added_to_withlist": 0
+  },
+  {
+    "id": 5,
+    "name": "Abdominal Bench",
+    "description": "An abdominal bench is used to complete abdominal movements like crunches and situps from a declining position. To use this machine, the lifter must first put their feet underneath the padded bars and lay back on the bench. From there, the lifter is free to crunch, twist, or bend in any number of ways. The lifter may adjust the steepness of the bench slightly, but in all cases, the bench will remain declined. This piece of equipment costs around $50 to $150.",
+    "image_url": "https://www.rookieroad.com/img/workout/abdominal-bench.png",
+    "original_price": 300,
+    "Discounted_price": 260,
+    "quantity": 10,
+    "added_to_withlist": 0
+  }
+]
